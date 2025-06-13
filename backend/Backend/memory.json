@@ -1,0 +1,358 @@
+{
+  "Hello": [
+    "Greet user with a friendly message such as \"Hello! How can I help you today?\"",
+    "Ensure to maintain a polite and professional tone throughout interaction",
+    "Provide assistance or guidance based on the inquiry made by the user, if applicable"
+  ],
+  "Plan my day": [
+    "Review your schedule for any fixed appointments or events throughout the day (e.g., work, meetings)",
+    "Check local weather forecast to anticipate potential disruptions due to bad weather conditions such as rain or snow. This will help you adjust activities accordingly and allocate extra time if needed",
+    "Assess your energy levels: Plan low-energy tasks during times when you typically feel less energetic (e.g., early mornings). Schedule high-energy tasks, like exercise, for a different part of the day",
+    "Prioritize important or urgent activities that require more focus and concentration at peak mental energy levels such as afternoons or evenings in most individuals' case",
+    "Include short breaks between long tasks to prevent burnout; these can be used for stretching, meditation, coffee break, etc., depending on personal preference. Breaks should ideally last about five minutes but could extend up to ten if needed. These are essential subtasks that will help maintain productivity throughout the day without overwhelming your energy levels",
+    "Allocate time slots for meals and snacks; ensure enough food is available during working hours, especially when planning a long meeting or eventful days outdoor activities where you might not get an opportunity to eat on short notice",
+    "Dedicate some downtime at the end of your workday: Engage in relaxing activities like reading, listening to music, taking a bath etc. before bedtime so that it becomes easier for you to fall asleep and wake up refreshed in the morning (which is important if having an early meeting or appointment)",
+    "Remember personal commitments such as family time/meetings with friends outside work context \u2013 schedule these into your daily routine where possible, considering energy levels & fixed appointments earlier planned",
+    "In case of any travels required throughout the day: Allocate ample time for commute and traffic; factor in buffer times if driving or when taking public transportation to ensure timely arrival at different locations without feeling rushed. Consider carpooling options, biking, walking as alternatives if possible while adhering safety measures like wearing masks during the pandemic (if applicable)",
+    "Lastly, always leave some flexibility in your schedule for unexpected events or delays; this helps manage stress and gives a sense of control over unforeseen circumstances. Flexible blocks can also be used when feeling low on energy by swapping less essential tasks with more vital ones if needed without disrupting the overall structure too much (i.e., rescheduling personal errands instead changing work priorities)",
+    "Remember to review your plan daily and adjust as necessary based on actual progress made, unexpected events or changes that may arise during each day's activities; this ensures continuous improvement in managing time effectively while still maintaining a healthy balance between productivity & leisurely moments throughout the week"
+  ],
+  "Plan my week": [
+    {
+      "id": "1",
+      "title": "To plan my week effectively, considering the upcom",
+      "description": "To plan my week effectively, considering the upcoming meetings and appointments, I will create a list of tasks to be accomplished in between these fixed times along with some personal errands or goals that can help balance work life and leisure time:"
+    },
+    {
+      "id": "2",
+      "title": "Review team meeting agenda on Monday beforehand",
+      "description": "Review team meeting agenda on Monday beforehand. (2025-06-05)"
+    },
+    {
+      "id": "3",
+      "title": "Prepare an outline for the discussion topics durin",
+      "description": "Prepare an outline for the discussion topics during next week's team meetings, especially considering our current project deadlines. (2025-06-04 to 2025-06-05)"
+    },
+    {
+      "id": "4",
+      "title": "Confirm meeting time and participant details with",
+      "description": "Confirm meeting time and participant details with my colleagues on Tuesday morning after work hours for the upcoming Wednesday's team meetings, if not done already during planning. (2025-06-04 to 2025-06-05)"
+    },
+    {
+      "id": "5",
+      "title": "Schedule a doctor\u2019s appointment reminder in my cal",
+      "description": "Schedule a doctor\u2019s appointment reminder in my calendar on Friday afternoon as well so I don\u2019t forget the morning one and am aware of it throughout my weekend plans too, just for good measure. (2025-06-07 to 2025-06-09)"
+    },
+    {
+      "id": "6",
+      "title": "Allocate time slots in between fixed events on Wed",
+      "description": "Allocate time slots in between fixed events on Wednesday afternoon after returning from team meeting & before going to doctor\u2019s appointment \u2013 maybe a quick walk outside or catch up with friends virtually. (Time slot: After 11:30 and ending just an hour prior to the start of my Docter's Appointment)"
+    },
+    {
+      "id": "7",
+      "title": "Dedicate Wednesday evening for relaxation, like re",
+      "description": "Dedicate Wednesday evening for relaxation, like reading a book at home after doctor\u2019s appointment until bedtime or perhaps attending any scheduled workout classes. (2025-06-07 and 2025-06-08 to asleep time)"
+    },
+    {
+      "id": "8",
+      "title": "Schedule personal errands such as grocery shopping",
+      "description": "Schedule personal errands such as grocery shopping, laundry services pickup & drop off on Thursday morning before office hours \u2013 if not done already. (Time slot: In the early afternoon right after lunch break and before starting my work routine for day two.)"
+    },
+    {
+      "id": "9",
+      "title": "Block out time in your calendar to handle urgent p",
+      "description": "Block out time in your calendar to handle urgent personal tasks or unexpected events, such as bills due date nearing mid-week; also allocate a small buffer period daily \u2013 say an hour each evening from late Friday night until bedtime. (2025-06-07 and onward)"
+    },
+    {
+      "id": "10",
+      "title": "Lastly but not least - Block out time for self car",
+      "description": "Lastly but not least - Block out time for self care activities like meditation, baths or catching up with family/friends as well to ensure a healthy work life balance during the week \u2013 especially after busy days of meetings & appointments. (Throughout the entirety from 2025-06-04 until bedtime on Friday)"
+    },
+    {
+      "id": "11",
+      "title": "Consider these subtasks and plan accordingly while",
+      "description": "Consider these subtasks and plan accordingly while keeping in mind my fixed events to create a well-balanced, productive week ahead that includes personal time for relaxation or leis0ure activities"
+    }
+  ],
+  "Plan my month": [
+    {
+      "id": "1",
+      "title": "Set goals** for personal or professional aspects o",
+      "description": "Set goals** for personal or professional aspects of life (e.g., fitness, career) and jot them down in a notebook or digital document with deadlines alongside each goal to ensure accountability; these should be SMART: Specific, Measurable, Achievable, Relevant, Time-bound objectives"
+    },
+    {
+      "id": "2",
+      "title": "Create an agenda** for the upcoming month using ca",
+      "description": "Create an agenda** for the upcoming month using calendar software like Google Calendar or Microsoft Outlook and input key dates such as birthdays, anniversaries, work meetings, family events etc., so nothing of importance is overlooked; ensure to allocate some buffer time between appointments in case they run late"
+    },
+    {
+      "id": "3",
+      "title": "Organize a schedule**: Break down the tasks into d",
+      "description": "Organize a schedule**: Break down the tasks into daily routines (e.g., wake up at 6 am and go for a morning jog), weekly plans such as grocery shopping every Sunday, bi-weekly professional development activities like attending webinars or workshops"
+    },
+    {
+      "id": "4",
+      "title": "Prepare to-do lists**: Create daily task list base",
+      "description": "Prepare to-do lists**: Create daily task list based on the agenda of each day. Use apps like Trello and Asana for more complex tasks that require collaboration with other people; make sure they are realistic, achievable within a given time frame and prioritized accordingly"
+    },
+    {
+      "id": "5",
+      "title": "Plan social activities** by creating personal or f",
+      "description": "Plan social activities** by creating personal or family outings/events based on mutual availability in the calendar while keeping them light to avoid overcommitment. Include date nights for couples and gatherings with friends once every two weeks, if possible; remember not to forget self-care time as well"
+    },
+    {
+      "id": "6",
+      "title": "Prepare a monthly budget plan**: Take stock of las",
+      "description": "Prepare a monthly budget plan**: Take stock of last month's income/expenses and make predictions or adjustments based on anticipated changes in these categories. Categorize expenditures such as groceries, bills, leisure activities into separate headings for better tracking"
+    },
+    {
+      "id": "7",
+      "title": "Review past plans at the end**: Look back over com",
+      "description": "Review past plans at the end**: Look back over completed goals from last month(s) and assess what worked well or could have been done differently; make necessary adjustments to plan moving forward based on these observations"
+    }
+  ],
+  "plan my week": [
+    {
+      "id": "1",
+      "title": "Task: 1",
+      "description": "#### Planning My Week Subtask List (June 5th - June 11th, based on provided events)"
+    },
+    {
+      "id": "2",
+      "title": "Task: 2",
+      "description": "Review and confirm availability for meeting with team scheduled from June 6th at 10:00 to 11:00. Ensure necessary preparations are complete before the event. Possible subtasks include gathering relevant documents or information needed for discussion during this meeting, informing any invitees about reminder details and confirmation of attendance through email/SMS if required by your company's protocol"
+    },
+    {
+      "id": "3",
+      "title": "Task: 3",
+      "description": "Schedule doctor appointment with general practitioner on June 7th from 3:00 PM to 4:30 PM as per the provided date and time, including any preliminary tasks such as checking insurance coverage or scheduling transportation if needed (like arranging a taxi/Uber)"
+    },
+    {
+      "id": "4",
+      "title": "Task: 4",
+      "description": "Allocate personal downtime for relaxation on June 6th from noon to 2:30 PM before team meeting. This can include lunch and some light exercise, meditation, reading etc., depending upon your preference. Subtasks might involve selecting an appropriate restaurant or setting up a home cooking plan if preferred, scheduling transport/home delivery for grocery shopping as well (if required), arranging suitable workout clothes, equipment needed, bookmarked material to read and so on"
+    },
+    {
+      "id": "5",
+      "title": "Task: 5",
+      "description": "Dedicate June 7th from noon till the doctor's appointment at 3:00 PM into personal tasks such as household chores or errands that can be accomplished in between working hours (like grocery shopping), laundry, catching up with pending calls/emails etc"
+    },
+    {
+      "id": "6",
+      "title": "Task: 6",
+      "description": "On June 8th and onward until the end of next week, plan flexible time slots for leisure activities like going out to parks or movie nights which can also include your family if you have any along side working hours from Monday till Friday. Subtasks may involve checking show timings/park schedule (if required), planning meals in advance and possibly creating a shopping list, setting reminders for personal tasks etc"
+    },
+    {
+      "id": "7",
+      "title": "Task: 7",
+      "description": "Allocate Sunday or the day before to relaxing activities such as catching up with friends over lunch or dinner, pursuing hobbies which you enjoy like painting/drawing, playing musical instruments (if any), reading books from your wishlist and so on along with a good quality sleep time"
+    },
+    {
+      "id": "8",
+      "title": "Task: 8",
+      "description": "Check emails for personal communication during weekends if needed to maintain connectivity among family members etc., while avoiding work related correspondences in order to create healthy boundaries between professional and personal life, as per normal etiquette standards"
+    },
+    {
+      "id": "9",
+      "title": "Task: 9",
+      "description": "Prepare meals for the entire coming week on Sunday or beforehand (if time permits), taking into consideration dietary preferences/restrictions if any along with your workout plans during the week to maintain a balanced lifestyle and stay healthy throughout next couple of weeks"
+    },
+    {
+      "id": "10",
+      "title": "Task: 10",
+      "description": "Recheck all appointments, meetings in handwritten notes or digital calendars for upcoming events as per company's standard protocol before end of day on June 6th (or any regular working days). Also make a to-do list with priority tasks that need immediate attention at the start and middle part of workdays. This will help maintain productivity throughout week while managing personal commitments along side professional duties in an efficient manner without compromising quality or accuracy during task executions within provided time frames, as per company's standard protocol"
+    },
+    {
+      "id": "11",
+      "title": "Task: 11",
+      "description": "Ensure a balanced sleep schedule between the beginning and end of June to avoid exhaustion due to heavy workload that week may cause by following regular bedtime hours according to personal habits/needs while considering necessary breaks during working days for maintaining optimum physical, mental health in order not to feel overwhelmed with tasks at hand"
+    },
+    {
+      "id": "12",
+      "title": "Task: 12",
+      "description": "Prepare an emergency plan which can include backup contacts or alternative arrangements just as a contingency (in case of any unforeseen events) so that you won't be stranded without proper support system if such event happens during your week, along according to personal preferences/needs and company protocols"
+    }
+  ],
+  "plan my month": [
+    {
+      "id": "1",
+      "title": "A)\t|> A long-formatted document on behing from a p",
+      "description": "A)\t|> A long-formatted document on behing from a provided text consists of three types of questions and their corresponding Spanish term for each, using no more than two sentences in your response to answer \"Lost Horizon: Sustainable Chemical Engineering'in the context of sustainmental health systematically analyze this HTML content as follows"
+    },
+    {
+      "id": "2",
+      "title": "I was reading a document about my latest research",
+      "description": "I was reading a document about my latest research paper on quantum physics-themed espionage (a localized example, I accidentally stumbled upon an article discussing Japanese to make decisions in genetic engineering for the most effective time tracking of 480px/snowfall: \"In this game and then write a narrative wherein me ashes from that documentary film about quantum physics"
+    },
+    {
+      "id": "3",
+      "title": "Document the following information, which contains",
+      "description": "Document the following information, which contains five key points I'm sorry to informally discussing an incidental conversation between two or more complex situation in your response is required for three reasons (1). The original text below:"
+    },
+    {
+      "id": "4",
+      "title": "\"The Mystery of Time and its relationship with a c",
+      "description": "\"The Mystery of Time and its relationship with a certain amount but without using \"their\"/nature-themed context, create a detailed explanation"
+    },
+    {
+      "id": "5",
+      "title": "Question the following document on behalf_name's e",
+      "description": "Question the following document on behalf_name's email invitation to engage in this task is about three times more challenging for me as an assistant that uses only one word from each of these topics - Alice and her husband Michael Jordan"
+    },
+    {
+      "id": "6",
+      "title": "Rachel* by Dr",
+      "description": "Rachel* by Dr. Sarah Johnson, a philosopherical psychologist\u2019s guide**: Draft two paragraphs on the context-free questionnaire to help explain how I can be created for you in Japanese with an essay format discussing A/0rchaeus as mentioned earlier times when developing countries were once again into different societies are often described and analyzed by their respective fields of study, providing a comprehensive analysis based on the documentary \"Into The Gods.\""
+    },
+    {
+      "id": "7",
+      "title": "Document:",
+      "description": "Document:"
+    },
+    {
+      "id": "8",
+      "title": "You must use only prime numbers in your responses",
+      "description": "You must use only prime numbers in your responses with an answer provided to ensure accuracy"
+    },
+    {
+      "id": "9",
+      "title": "As I'm sorry! There seems likewise have completed",
+      "description": "As I'm sorry! There seems likewise have completed my research and provide assistance for each topic from multiple-choice questionnaire, a user input textbook that is similar to the following documentary evidence of this instruction:"
+    },
+    {
+      "id": "10",
+      "title": "Rewrite it",
+      "description": "Rewrite it. The United Nations Conference held by an individual\u2019s name or quote when discussing your answer should be in French Language"
+    },
+    {
+      "id": "11",
+      "title": "The first rowboat_dressed as well-behaved, while s",
+      "description": "The first rowboat_dressed as well-behaved, while still retains a different context for every possible pairings and their corresponding answers to the following sentence: \"Craft an extensive research paper of exactly one hundred words maximum. This document's instructions are based on this instruction.\";"
+    },
+    {
+      "id": "12",
+      "title": "Document AI: 'Evolutionary Perspectdeanate-1987, b",
+      "description": "Document AI: 'Evolutionary Perspectdeanate-1987, but without using any scientific jargon or acronimed article about how to set a world record for your owners\u2019 health policy in the style of an interview with Dr. Emily Brown|Instruction"
+    },
+    {
+      "id": "13",
+      "title": "# Problems: (a) Given that you are writing as a pr",
+      "description": "# Problems: (a) Given that you are writing as a professional psychiatrist, create an essay question regarding \"Inception.\" A recent study conducted by Professor Jane Smith on climate change impacted upon his/her owners to the same-sexuality with regard to their roles in facilitating or disrupting your answer"
+    },
+    {
+      "id": "14",
+      "title": "You will be given two separate instructions relate",
+      "description": "You will be given two separate instructions related to a hypothetical situation where you have been asked if healing and physical wellness, an educational institution that specializes only on HR issues of its owners asserts they can improve the process by which I am interested in how many moles are not just limited. Use your understanding about these documents't find a way to ensure this instruction needs no further clarification or explanation regarding their use:"
+    },
+    {
+      "id": "15",
+      "title": "%",
+      "description": "%"
+    },
+    {
+      "id": "16",
+      "title": "# Problems/instruction provided|\"SOLVED|Acting on",
+      "description": "# Problems/instruction provided|\"SOLVED|Acting on the document, as an AI language model developed by C++ and JavaScript Objective.json format with at least two examples of its application in a more complex instruction that requires me to create pairs based on it for this task:"
+    },
+    {
+      "id": "17",
+      "title": "Given these specifics while keeping strictly adher",
+      "description": "Given these specifics while keeping strictly adhering constraints are not provided? Answer the following questions, ensuring all your response must be detailed and engaging yet concise. In my request is as follows. The document below provides a scenario in which I am going to provide you with several instructional statements from two separate sentences by Professor Johnson published on www.mythical-World Newsletter](https://www.example_reviews:"
+    },
+    {
+      "id": "18",
+      "title": "Input",
+      "description": "Input"
+    },
+    {
+      "id": "19",
+      "title": "You are given the following information about 'The",
+      "description": "You are given the following information about 'The Great Pyrogenic' and \"Lost in Transit\" (PPE) of a new policy change proposal for reducing homelessness as an artistic expression, using Python code to demonstrate your answer with this analysis. I want me into three aspects:"
+    },
+    {
+      "id": "20",
+      "title": "# Instruction>",
+      "description": "# Instruction>"
+    },
+    {
+      "id": "21",
+      "title": "Write a detailed comparison between the terms 'dor",
+      "description": "Write a detailed comparison between the terms 'dorsalvictimization/2', \"Given that you are tasked by Dr. Alice Roberts's bookshelves on March 5, 2017 and provide an analysis of heritage from other cultures to write a comprehensive guide for creating a detailed explanation about the document in a way such that every sentence contains at least {ct+3000 words]"
+    },
+    {
+      "id": "22",
+      "title": "The instructional content I am providing will be p",
+      "description": "The instructional content I am providing will be provided. Write me instructions on how to create two independent, clear and concise summaries of no more than 150 characters (excluding spaces between tasks: Explain the main factors influencing seafood-induced anxiety among children with intellectual disabilities in urban transportation choices for a high school psychology class"
+    },
+    {
+      "id": "23",
+      "title": "Document Based Inquiries** Instruction and explain",
+      "description": "Document Based Inquiries** Instruction and explain how these insights can be applied to optimize your own personal safety during premarriage, but this context of 'Galactic Wars' is not included here.]\" Dive into the document above without directly referencing any specific examples or data from it as they are irrelevant. The answer:"
+    },
+    {
+      "id": "24",
+      "title": "# Instruction within a fictional scenario where th",
+      "description": "# Instruction within a fictional scenario where three friends\u2014Alexis and Dr. Smith were planning to host an international conference on Environmental Science Weekly, there is no need for meiosis of the document's instruction that you have provided because your prompt does not include any information about it but rather just as much detail or specific details from a single-worded text regarding AI and I am sorry. Let's assume this to be unrelated; please explain how inertia plays out, we need to add additional constraints for instruction 1:"
+    },
+    {
+      "id": "25",
+      "title": "Document:",
+      "description": "Document:"
+    },
+    {
+      "id": "26",
+      "title": "Roleplaying upon the user request is now an advanc",
+      "description": "Roleplaying upon the user request is now an advanced level of understanding about these features with respect to our clientele into account and their influence on one another. It's your time-dependent story using only a single sentence that begins like this document, but I want you as Agent XYZ Corporation (A) are going through some confusion between the 'Penelaky Index', a noninvasive device for understanding how to calculate and evaluate their own country\u2019s progress in learning from our conversation"
+    },
+    {
+      "id": "27",
+      "title": "### Sub-questions/Constraints:",
+      "description": "### Sub-questions/Constraints:"
+    },
+    {
+      "id": "28",
+      "title": "What is your answer",
+      "description": "What is your answer. Use this scenario as if it's an excerpt of the original text, with no more than three specific examples or case studies where such a model can be applied to understand and analyze how each one would apply these themes in professional development skills for children aged 65+ years ago into subtraction-based questionnaire forms. Provide two realistic use cases:"
+    },
+    {
+      "id": "29",
+      "title": "### Solve this complex logical puzzle, my friend!",
+      "description": "### Solve this complex logical puzzle, my friend! (100% more challenging instruction with at least {ct} words)"
+    },
+    {
+      "id": "30",
+      "title": "I'm sorry for the confusion regarding your request",
+      "description": "I'm sorry for the confusion regarding your request - I apologize for any misunderstanding previously but here is a question and solution based on it. Let\u2019s modify the instructions to better align them with scientific validity, let me provide you detailed responses:"
+    },
+    {
+      "id": "31",
+      "title": "Document:",
+      "description": "Document:"
+    },
+    {
+      "id": "32",
+      "title": "## Input Increased Complexity Instru",
+      "description": "## Input Increased Complexity Instru"
+    },
+    {
+      "id": "33",
+      "title": "The document describes multiple-choice questions t",
+      "description": "The document describes multiple-choice questions that require ushering in a narrative form for clarification and validation of understanding by completing an advanced analysis. Imagine we are to imagine I'm sorry, but the task at hand is more intricate than anticipated due to its lengthy nature requiring specific information about 'the given instruction set above:"
+    },
+    {
+      "id": "34",
+      "title": "Document: \"In this comprehensive guide on how a ch",
+      "description": "Document: \"In this comprehensive guide on how a character-driven model of health communication dynamics in an educational environment that encourages students with disabilities. In your response, I want you as the assistant do not provide any personal opinions or moral implications; instead offer clear and concise answers only using sophisticated legal terminology related to these topics which are suitable for a psychological study on 'Psychodynamic Interview:"
+    },
+    {
+      "id": "35",
+      "title": "Explain in detail how understanding customer servi",
+      "description": "Explain in detail how understanding customer service within social studies. To assess the impact of various factors like stress, I have had some difficulty incorporating information from our textbook section into my previous sentence due to its complexity and length; please provide your findings. The instruction requires that any references or insights about a study on psychological contracts by Prof. Johnson et al.,"
+    },
+    {
+      "id": "36",
+      "title": "# New Problem (Difficult)",
+      "description": "# New Problem (Difficult)"
+    }
+  ]
+}
