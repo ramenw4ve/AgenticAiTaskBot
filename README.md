@@ -1,10 +1,10 @@
-# 🧠 Agentic AI Task Completion Bot
+# Agentic AI Task Completion Bot
 
 A semi-agentic task planner that takes natural language inputs and breaks them into structured, actionable subtasks — enriched with real-time calendar context and powered by a local LLM using Ollama.
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ Accepts free-form input like “Plan my week” or “Organize a college fest”
 - 🧠 Uses LangChain + Ollama (LLaMA 3) to extract subtasks from contextual prompts
@@ -14,7 +14,7 @@ A semi-agentic task planner that takes natural language inputs and breaks them i
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 
@@ -37,7 +37,7 @@ agentic-ai-task-bot/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ agentic-ai-task-bot/
 
 ---
 
-### 🧠 Backend Setup (FastAPI)
+### Backend Setup (FastAPI)
 
 ```bash
 cd backend
@@ -62,7 +62,7 @@ Ensure `ollama serve` is running in the background, and `llama3` is available.
 
 ---
 
-### 💻 Frontend Setup (React)
+### Frontend Setup (React)
 
 ```bash
 cd frontend
@@ -74,7 +74,7 @@ Make sure the FastAPI backend is running at `http://localhost:8000`.
 
 ---
 
-## 📡 API
+## API
 
 ### `POST /plan`
 
@@ -104,13 +104,13 @@ Make sure the FastAPI backend is running at `http://localhost:8000`.
 
 ---
 
-## 🔐 Google Calendar Setup
+## Google Calendar Setup
 
 Enable Google Calendar API and create OAuth2 credentials. Update the `CalendarAgent` in `backend/agents/CalenderRequiredAgent.py` to authenticate with your account and fetch event data.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Frontend**: React + Vite + Tailwind CSS
 * **Backend**: FastAPI + LangChain + Ollama
@@ -120,7 +120,7 @@ Enable Google Calendar API and create OAuth2 credentials. Update the `CalendarAg
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * User login and session support
 * Inline editing and reordering of subtasks
