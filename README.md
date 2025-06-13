@@ -6,11 +6,11 @@ A semi-agentic task planner that takes natural language inputs and breaks them i
 
 ## Features
 
-- ✅ Accepts free-form input like “Plan my week” or “Organize a college fest”
-- 🧠 Uses LangChain + Ollama (LLaMA 3) to extract subtasks from contextual prompts
-- 📅 Integrates Google Calendar to avoid conflicts with existing events
-- 💾 Stores results using local JSON and frontend localStorage
-- 📋 Subtasks come with titles, descriptions, and smart formatting
+- Accepts free-form input like “Plan my week” or “Organize a college fest”
+- Uses LangChain + Ollama (LLaMA 3) to extract subtasks from contextual prompts
+- Integrates Google Calendar to avoid conflicts with existing events
+- Stores results using local JSON and frontend localStorage
+- Subtasks come with titles, descriptions, and smart formatting
 
 ---
 
